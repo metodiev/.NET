@@ -1,0 +1,6 @@
+How to check wich version of .NET you're using - 
+https://help.bittitan.com/hc/en-us/articles/115008111067-How-do-I-check-which-version-of-NET-Framework-I-have-installed-
+
+in cmd type cd C:\Windows\Microsoft.NET\Framework and then go to the latest version of .NET and type .\MSBuild.exe -version
+
+In Visual studio IDE go to the Refenreces and check which .NET version you're using
